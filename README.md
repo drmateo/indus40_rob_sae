@@ -244,7 +244,7 @@ Inspection requirements:
 
 ```bash
 # Required Python packages
-pip install numpy matplotlib scipy
+pip install numpy==1.26.4 matplotlib scipy
 pip install roboticstoolbox-python
 pip install spatialmath-python
 pip install opencv-python  # For vision simulation
